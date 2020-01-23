@@ -1,0 +1,15 @@
+{
+  "players": [
+    {
+      "roomName": "Bathroom",
+      "volume": 20
+    }
+  ],
+  "playMode": {
+    "shuffle": true,
+    "repeat": "all",
+    "crossfade": false
+  },
+  "pauseOthers": false,
+  "favorite": "Love Pop"
+}
