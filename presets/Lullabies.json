@@ -1,0 +1,15 @@
+{
+  "players": [
+    {
+      "roomName": "Kensley's Room",
+      "volume": 4
+    }
+  ],
+  "playMode": {
+    "shuffle": false,
+    "repeat": "all",
+    "crossfade": false
+  },
+  "pauseOthers": false,
+  "playlist": "Lullabies"
+}
