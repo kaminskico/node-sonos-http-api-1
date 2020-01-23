@@ -1,0 +1,9 @@
+       {
+          "spotify": {
+	    "clientId": "0b0eca9ccacb47558db90560b15f4cbc",
+	    "clientSecret": "21630c882aad4f6ab9398856dc80f415"
+	  },
+	  "library": {
+	    "randomQueueLimit": 50
+	  }
+       }
