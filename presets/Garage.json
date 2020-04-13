@@ -1,0 +1,15 @@
+{
+  "players": [
+    {
+      "roomName": "Garage",
+      "volume": 20
+    }
+  ],
+  "playMode": {
+    "shuffle": true,
+    "repeat": "all",
+    "crossfade": false
+  },
+  "pauseOthers": false,
+  "favorite": "That's My Jam by Kevin in the Morning with Allie & Jensen"
+}
